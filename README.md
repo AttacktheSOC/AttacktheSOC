@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AttacktheSOC
-- 👀 I’m interested in gaining the knowledge required of an Application Security Engineer
-- 🌱 I’m currently learning Python, C++, PHP, SQL and backend services
-- 💞️ I’m looking to collaborate on anything i possibly can!
-- 📫 How to reach me Twitter and Instagram @AttacktheSOC
+- 👀 I’m interested in becoming a more well-rounded and effective Infosec Engineer.
+- 🌱 I’m currently learning to automate with Python
+- 💞️ I’m looking to collaborate on anything I possibly can!
+- 📫 You can reach me on Twitter @AttacktheSOC
 
 <!---
 AttacktheSOC/AttacktheSOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
