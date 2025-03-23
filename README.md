@@ -22,6 +22,10 @@ A collection of Azure and Entra-focused solutions, including deployable template
 
 Stay updated with my latest articles on Azure Security and more:
 
+- **[Using KQL to Detect Gaps in your Conditional Access Strategy](https://attackthesoc.com/posts/detect-cap-gaps)**  
+  *March 23, 2025*  
+  How to transform your high-level CAP strategy into actionable alerts.
+
 - **[Optimizing the SOC](https://attackthesoc.com/posts/ms-xdr-optimizing-the-soc/)**  
   *December 7, 2024*  
   Insights into enhancing Security Operations Centers with effective strategies and tools.
